@@ -9,3 +9,9 @@ pom.xml.asc
 /.nrepl-port
 /profiles.clj
 dev/local.clj
+/lib/
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+.lein-failures
+.nrepl-port
